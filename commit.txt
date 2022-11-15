@@ -1,7 +1,0 @@
-essa está fora da realidade
-
-roberto = 2 + 2
-print(roberto)
-
-aaaa
-g
